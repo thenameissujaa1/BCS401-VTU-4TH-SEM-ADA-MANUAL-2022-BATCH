@@ -43,3 +43,13 @@ printf("%d ",temp[i]);
 } 
 // getch(); 
 }
+Input/output: 
+Enter the n value:6 
+Enter the graph data: 
+001100 
+000110 
+000101 
+000001 
+000001 
+000000 
+Topological ordering is:1 2 3 4 5 6
