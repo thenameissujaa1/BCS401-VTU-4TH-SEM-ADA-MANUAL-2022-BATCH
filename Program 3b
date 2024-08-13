@@ -26,3 +26,16 @@ printf("\nEnter the n value:");
  } 
  return 0; 
  }
+
+
+Enter the n value:4 
+Enter the graph data: 
+0 1 0 0 
+0 0 0 1 
+0 0 0 0 
+1 0 1 0 
+Resultant path matrix 
+1 1 1 1 
+1 1 1 1 
+0 0 0 0 
+1 1 1 1
